@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Mateus 👋
+ 
+Computer Student at [Universidade Federal do Paraná](https://www.google.com)
 
 <!--
 **mateus-mos/mateus-mos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
