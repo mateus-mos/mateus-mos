@@ -1,6 +1,6 @@
 ### Hi, I'm Mateus 👋
  
-Computer Science Student at [Universidade Federal do Paraná](https://www.google.com)
+Computer Science Student at [Universidade Federal do Paraná](https://www.ufpr.br/portalufpr/)
 
 <!--
 **mateus-mos/mateus-mos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
